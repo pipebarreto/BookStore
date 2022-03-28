@@ -17,8 +17,7 @@ import com.example.Diego_bookstore.domain.UserRepository;
 public class DiegoBookstoreApplication {
 	
 	public static void main(String[] args) {
-		SpringApplication.run(DiegoBookstoreApplication.class, args);
-				
+		SpringApplication.run(DiegoBookstoreApplication.class, args);				
 	}
 	
 	@Bean
