@@ -16,6 +16,8 @@ import com.example.Diego_bookstore.domain.UserRepository;
 @SpringBootApplication
 public class DiegoBookstoreApplication {
 
+	private static final Logger log = LoggerFactory.getLogger(DiegoBookstoreApplication.class);
+	
 	public static void main(String[] args) {
 		SpringApplication.run(DiegoBookstoreApplication.class, args);
 				
