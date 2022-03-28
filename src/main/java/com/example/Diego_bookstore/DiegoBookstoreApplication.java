@@ -42,8 +42,8 @@ public class DiegoBookstoreApplication {
 			"ADMIN",
 			"admin@hh.com");
 	
-			urepository.save(user1);
-			urepository.save(user2);
+			//urepository.save(user1);
+			//urepository.save(user2);
 	
 	
 	System.out.println("fetch all books");
