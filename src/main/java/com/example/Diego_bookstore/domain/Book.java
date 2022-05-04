@@ -28,8 +28,7 @@ public class Book {
 	public Book() {
 		
 	}
-	public Book (String title, String author, int year, String ISBN, Category category) {
-		super();
+	public Book (String title, String author, int year, String ISBN, Category category) {		
 		this.title=title;
 		this.author=author;
 		this.year=year;
